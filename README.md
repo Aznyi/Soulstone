@@ -1,7 +1,3 @@
-
-= CHANGE LOG
-
-
 Revision: 25
 Author: aznyi
 Date: Sunday, April 3, 2022 12:25:44 PM
