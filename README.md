@@ -1,6 +1,6 @@
-======================
-====  CHANGE LOG  ====
-======================
+
+= CHANGE LOG
+
 
 Revision: 25
 Author: aznyi
