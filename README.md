@@ -117,8 +117,6 @@ Message:
 [core]:
 - Remove realmserver
 - Remove voicechat
-
-These won't be developed by us, we will be focusing on the world and logon servers.
 ----
 Revision: 10
 Author: aznyi
